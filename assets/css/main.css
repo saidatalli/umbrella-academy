@@ -74,7 +74,7 @@ input, select, textarea {
 	appearance: none;
 }
 
-.iframe-container {
+/* .iframe-container {
 	position: relative;
 	width: 100%;
 	padding-bottom: 56.25%;
@@ -87,7 +87,7 @@ input, select, textarea {
 	left: 0;
 	width: 100%;
 	height: 100%;
-}
+} */
 /* Basic */
 
 	@-ms-viewport {
